@@ -5,5 +5,5 @@
 
 * Anchor_main.ino, TAG.ino, anchor_B.ino, anchor_C.ino  - Esp32
 
-* HY_museum0.6 ver.pip                                  - appinventor2
+* HY_museum0.7 ver.aia                                  - appinventor2
 * hymuseum.apk                                          - android
